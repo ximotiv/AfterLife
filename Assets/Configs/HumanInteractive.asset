@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 143269e2e4b59bf41b7938f0572024d0, type: 3}
+  m_Name: HumanInteractive
+  m_EditorClassIdentifier: 
+  _outlineColors:
+  - {r: 0.8392157, g: 0.26142848, b: 0.25098044, a: 1}
+  - {r: 1, g: 0.8015259, b: 0.4575472, a: 1}
